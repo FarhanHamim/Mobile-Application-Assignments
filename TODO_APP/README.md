@@ -1,16 +1,10 @@
 # todo_app_iub
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Task-1: Creating Rounded Container 
+⬇️
+![image](https://github.com/FarhanHamim/Mobile-Application-Assignments/assets/65287208/25fb2551-eab8-4ad4-b426-cd168ceee546)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Task-2: Showing bottom dialog on Floating action button click
+⬇️
+![image](https://github.com/FarhanHamim/Mobile-Application-Assignments/assets/65287208/6486b87e-c568-4903-ae0b-067a8589e1d8)
