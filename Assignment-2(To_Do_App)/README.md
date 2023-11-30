@@ -1,16 +1,7 @@
-# todo_app_iub
+# To_Do_App
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task-1: Before and after clicking the checkbox Text strike will appear and vanish accordingly:
+![image](https://github.com/FarhanHamim/Mobile-Application-Assignments/assets/65287208/31457795-90ac-4e11-95b4-c80b1c090adb)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/FarhanHamim/Mobile-Application-Assignments/assets/65287208/8ab383ef-53e1-4ab6-9348-04737a761958)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
